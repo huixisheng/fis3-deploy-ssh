@@ -1,0 +1,17 @@
+{
+  "name": "fis3-deploy-ssh",
+  "version": "1.0.0",
+  "description": "fis3执行ssh命令",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-ssh-exec": "0.1.1"
+  }
+}
