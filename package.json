@@ -9,7 +9,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": {
+    "name": "huixisheng",
+    "email": "469184346@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:huixisheng/fis3-deploy-ssh.git"
+  },
+  "homepage": "https://github.com/huixisheng/fis3-deploy-ssh",
   "license": "ISC",
   "dependencies": {
     "node-ssh-exec": "0.1.1"
